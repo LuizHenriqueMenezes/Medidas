@@ -1,10 +1,9 @@
 # Medidas
 
 Receba uma medida em metros e exiba seus equivalentes em quilômetros e centímetros.
-Entre com a medida (em metros): 150
 
 ```cs
-Entre com a medida em metros: 150
+Entre com a medida (em metros): 150
 
 --- Equivalência ---
 15000 cm
